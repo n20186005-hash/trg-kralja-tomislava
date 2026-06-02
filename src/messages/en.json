@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kourion Ancient Amphitheater – Limassol, Cyprus",
-    "description": "Complete travel guide to Kourion Ancient Amphitheater in Limassol. Learn about this historic landmark, including location, views, access, and visitor information."
+    "title": "Trg Kralja Tomislava – Zagreb, Croatia",
+    "description": "Complete travel guide to Trg Kralja Tomislava in Zagreb. Learn about this city park, including location, views, access, and visitor information."
   },
   "header": {
     "home": "Home",
@@ -11,58 +11,58 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Kourion Ancient Amphitheater",
-    "subtitle": "Historic Landmark · Limassol, Cyprus",
-    "rating": "4.7",
-    "reviewCount": "6,274 reviews",
-    "type": "Ancient Monument",
+    "title": "Trg Kralja Tomislava",
+    "subtitle": "City Park · Zagreb, Croatia",
+    "rating": "4.8",
+    "reviewCount": "7,500 reviews",
+    "type": "City Park",
     "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/KxwFywyG12yxtgsF9"
+    "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7"
   },
   "intro": {
-    "title": "Discover Kourion Ancient Amphitheater",
-    "description": "The Ancient Theater of Kourion is one of the most impressive archaeological sites in Cyprus. Built in the 2nd century BC and expanded during Roman times, it offers breathtaking views of the Mediterranean Sea. Today, it continues to host cultural performances and concerts.",
+    "title": "Discover Trg Kralja Tomislava",
+    "description": "Trg Kralja Tomislava (King Tomislav Square) is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the main railway station, it welcomes visitors with the magnificent Art Pavilion and a majestic monument to King Tomislav. It is a popular gathering place and a masterpiece of landscape architecture.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "Best time to visit is early morning or late afternoon.",
-        "Wear comfortable shoes for walking on ancient stones.",
-        "Bring water and sun protection in summer.",
-        "Don't miss the panoramic view of the sea from the theater."
+        "A great place to relax after arriving at the Main Railway Station.",
+        "Perfect for photography, especially with the Art Pavilion in the background.",
+        "In winter, the square often transforms into a magical ice skating rink.",
+        "Easily accessible and surrounded by beautiful historic architecture."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Spectacular Mediterranean views",
-        "Well-preserved Roman theater",
-        "Active cultural venue",
-        "Ancient architectural marvel"
+        "King Tomislav Monument",
+        "Art Pavilion backdrop",
+        "Beautiful floral displays",
+        "Part of Zagreb's Green Horseshoe"
       ]
     }
   },
   "knowledge": {
-    "title": "About Kourion Ancient Amphitheater",
+    "title": "About Trg Kralja Tomislava",
     "sections": [
       {
         "id": "history",
-        "title": "History & Archaeology",
-        "content": "The Ancient Theater of Kourion was built in the 2nd century BC and significantly expanded during the Roman period (2nd-3rd century AD). It could seat up to 3,500 spectators. The theater was destroyed by earthquakes in the 4th century AD but was partially restored in the 20th century."
+        "title": "History & Heritage",
+        "content": "Named after the first Croatian King, Tomislav, the square was designed in the late 19th and early 20th centuries. The iconic monument of King Tomislav on horseback, created by sculptor Robert Frangeš-Mihanović, was erected in 1947, commemorating the 1000th anniversary of the Croatian Kingdom."
       },
       {
         "id": "geography",
-        "title": "Location & Views",
-        "content": "Located on a hill near Episkopi village in Limassol district, the theater offers panoramic views of the Mediterranean Sea and the surrounding countryside. Its elevated position (about 50m above sea level) provides natural acoustics and a stunning backdrop for performances."
+        "title": "Location & Landscape",
+        "content": "Situated in the Lower Town of Zagreb, it is the first part of the 'Lenuci Horseshoe' (a U-shaped system of city squares and parks) that visitors see when exiting the main train station. The square features meticulously maintained lawns, colorful flower beds, and shaded pathways."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Design",
-        "content": "The theater follows classical Hellenistic and Roman design principles with semicircular seating (cavea), a circular orchestra, and a scenic background (scaenae frons). The restoration work has preserved the original stone seating and architectural elements."
+        "title": "Architecture & Surroundings",
+        "content": "The northern end of the square is dominated by the Art Pavilion (Umjetnički paviljon), an elegant yellow exhibition building dating back to 1898. The surrounding streets feature beautiful classicist and secessionist buildings that define Zagreb's Lower Town."
       },
       {
         "id": "protection",
-        "title": "Preservation & Management",
-        "content": "The site is managed by the Department of Antiquities of Cyprus and is protected under Cypriot heritage laws. Ongoing conservation efforts ensure the theater remains structurally sound while maintaining its authenticity."
+        "title": "Urban Significance",
+        "content": "As a protected urban and cultural space, Trg Kralja Tomislava plays a central role in Zagreb's social and cultural life. It frequently hosts open-air concerts, cultural events, and the popular 'Advent in Zagreb' winter festival."
       }
     ]
   },
@@ -70,115 +70,107 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "What are the opening hours of Kourion Theater?",
-        "answer": "The site is open daily from 8:30 AM to 5:00 PM (winter) or 8:30 AM to 7:30 PM (summer). Last admission is 30 minutes before closing."
+        "question": "What are the opening hours of Trg Kralja Tomislava?",
+        "answer": "As a public city park, Trg Kralja Tomislava is open 24/7. However, the nearby Art Pavilion and other attractions have their own specific visiting hours."
       },
       {
         "question": "Is there an entrance fee?",
-        "answer": "Yes, there is an entrance fee of €4.50 for adults. Children under 12 enter free. EU seniors (65+) get reduced rates."
+        "answer": "No, the park is completely free and open to the public."
       },
       {
         "question": "Are there guided tours available?",
-        "answer": "Yes, guided tours are available through the Department of Antiquities or private tour operators. Audio guides may also be available at the entrance."
+        "answer": "While the park itself doesn't offer official tours, many Zagreb city walking tours include Trg Kralja Tomislava in their itineraries."
       },
       {
         "question": "Is the site accessible for wheelchair users?",
-        "answer": "The main path to the theater is partially accessible, but the ancient stone steps and uneven terrain may be challenging. Contact the site in advance for assistance."
+        "answer": "Yes, the park features flat, paved pathways that are fully accessible for wheelchair users and strollers."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Kourion Ancient Amphitheater (Αρχαίο Θέατρο Κουρίου)",
+    "officialNameValue": "Trg Kralja Tomislava",
     "type": "Attraction Type",
-    "typeValue": "Ancient Monument / Archaeological Site",
+    "typeValue": "City Park",
     "country": "Country",
-    "countryValue": "Cyprus",
+    "countryValue": "Croatia",
     "city": "City",
-    "cityValue": "Limassol (Lemesos)",
+    "cityValue": "Zagreb",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7 (6,274)",
+    "googleRatingValue": "4.8 (7,500)",
     "address": "Address",
-    "addressValue": "Kourion, 19 km west of Limassol, on the road to Paphos",
+    "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Croatia",
     "telephone": "Contact Phone",
-    "telephoneValue": "+357 25 934 250",
+    "telephoneValue": "N/A",
     "accessibility": "Accessibility",
-    "accessibilityValue": "Partially accessible",
+    "accessibilityValue": "Accessible",
     "plusCode": "Plus Code",
-    "plusCodeValue": "MV7Q+P49"
+    "plusCodeValue": "RX4H+JF Zagreb, Croatia"
   },
   "hours": {
     "title": "Visiting Hours",
-    "park": "Site Access",
-    "parkTime": "Winter: 8:30-17:00, Summer: 8:30-19:30",
+    "park": "Park Access",
+    "parkTime": "Open 24 hours daily",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Pleasant weather, wildflowers bloom",
-    "bestTimeSummer": "Summer: Early morning or late afternoon recommended",
-    "bestTimeAutumn": "Autumn: Mild temperatures, ideal for exploring",
-    "bestTimeWinter": "Winter: Fewer crowds, clear atmosphere",
-    "tip": "Allow 1-2 hours for a full visit. Bring water and sun protection."
+    "bestTimeSpring": "Spring: Vibrant floral displays",
+    "bestTimeSummer": "Summer: Relaxing on the lawns",
+    "bestTimeAutumn": "Autumn: Beautiful foliage colors",
+    "bestTimeWinter": "Winter: Ice skating park during Advent",
+    "tip": "Enjoy the park at sunset for the best lighting against the Art Pavilion."
   },
   "tickets": {
     "title": "Admission Information",
-    "park": "Site Admission",
-    "parkPrice": "€4.50 for adults, free for children under 12",
+    "park": "Park Admission",
+    "parkPrice": "Free public access",
     "parking": "Parking",
-    "parkingPrice": "Free parking available on-site",
+    "parkingPrice": "Public paid parking nearby",
     "guided": "Guided Tours",
-    "guidedPrice": "Available through Department of Antiquities"
+    "guidedPrice": "Included in many city walking tours"
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Limassol Center",
-    "fromCenterDesc": "Distance about 19km west of Limassol. Car or bus recommended.",
-    "fromStation": "By Public Transport",
-    "fromStationDesc": "Take bus route 16 or 17 from Limassol to Episkopi.",
-    "fromAirport": "From Paphos/Larnaca Airport",
-    "fromAirportDesc": "Rent a car or take a taxi. About 40km from Larnaca, 50km from Paphos.",
+    "fromCenter": "From Main Square (Ban Jelačić)",
+    "fromCenterDesc": "A short 10-15 minute walk south through the parks.",
+    "fromStation": "From Main Train Station",
+    "fromStationDesc": "Located immediately opposite the main entrance.",
+    "fromAirport": "From Zagreb Airport",
+    "fromAirportDesc": "Take the airport shuttle bus to the main bus station, then a short tram ride.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Bus routes 16/17 from Limassol to Episkopi village.",
+    "publicTransportDesc": "Tram lines 2, 4, 6, 9, and 13 stop directly at 'Glavni kolodvor' (Main Station).",
     "walking": "Walking",
-    "walkingDesc": "Not recommended from Limassol center (19km).",
+    "walkingDesc": "Easily walkable from all central Zagreb locations.",
     "driving": "Driving",
-    "drivingDesc": "Follow the B6 coast road west from Limassol. Well signposted."
+    "drivingDesc": "Follow signs to Glavni kolodvor; street parking is limited."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Explore the ancient theater and surrounding ruins.",
+    "overview": "Explore the beautiful squares and parks forming the Green Horseshoe.",
     "steps": [
-      "Enter the Kourion Archaeological Site",
-      "Visit the Ancient Theater first",
-      "Explore the Roman baths and houses",
-      "See the early Christian basilica",
-      "Enjoy the view from the theater seats"
+      "Arrive at Glavni kolodvor (Main Railway Station)",
+      "Admire the King Tomislav Monument",
+      "Stroll through the central lawns and flower beds",
+      "Take photos in front of the Art Pavilion",
+      "Continue north to Zrinjevac Park"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Ancient Beauty of Kourion",
+    "subtitle": "The Beauty of Trg Kralja Tomislava",
     "captions": [
-      "Theater overview from above",
-      "Seating area with sea view",
-      "Ancient stone seats",
-      "Stage and orchestra area",
-      "Panoramic Mediterranean view",
-      "Theater in golden sunlight",
-      "Ancient architectural details",
-      "Cavea and scenic background",
-      "Visitors exploring the site",
-      "Rear view of the theater",
-      "Surrounding archaeological ruins",
-      "Theater and coastline",
-      "Ancient performance venue",
-      "Stone pathways and entrance",
-      "Theater from different angle",
-      "Mediterranean backdrop",
-      "Ancient masonry details",
-      "Theater and landscape",
-      "Scenic view from seats",
-      "Ancient stones and sky",
-      "Theater at sunset"
+      "Park view",
+      "Monument and Pavilion",
+      "Floral displays",
+      "King Tomislav Monument",
+      "Winter Ice Park",
+      "Summer lawns",
+      "Art Pavilion close-up",
+      "Square overview",
+      "Historic architecture",
+      "Walking paths",
+      "Evening view",
+      "Fountain details",
+      "Park benches"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -193,48 +185,48 @@
         "name": "James W.",
         "rating": 5,
         "date": "2026-04-10",
-        "text": "Absolutely stunning! The view from the theater is breathtaking. A must-visit in Cyprus."
+        "text": "Absolutely stunning park! The view of the Art Pavilion from the monument is breathtaking. A must-visit in Zagreb."
       },
       {
         "name": "Sophia M.",
         "rating": 5,
         "date": "2026-03-22",
-        "text": "Incredible ancient site with amazing acoustics. The Mediterranean backdrop is spectacular."
+        "text": "Incredible city park with beautiful flowers. It's so relaxing to just sit here on a sunny afternoon."
       },
       {
         "name": "Andreas K.",
         "rating": 5,
         "date": "2026-02-15",
-        "text": "Rich history and well-preserved. The theater still hosts performances - magical atmosphere!"
+        "text": "The ice skating park during winter is magical. Such a great atmosphere!"
       },
       {
         "name": "Emma L.",
         "rating": 4,
         "date": "2026-01-30",
-        "text": "Beautiful site with great views. Recommend visiting in the morning to avoid crowds."
+        "text": "Beautiful park right by the train station. Great first impression of the city."
       },
       {
         "name": "Michael R.",
         "rating": 5,
         "date": "2025-12-18",
-        "text": "Fascinating piece of history. The audio guide was very informative."
+        "text": "A wonderful piece of urban architecture. The whole Green Horseshoe area is fantastic."
       },
       {
         "name": "Linda T.",
         "rating": 5,
         "date": "2025-11-25",
-        "text": "One of the best archaeological sites in Cyprus. The theater is remarkably preserved."
+        "text": "One of the best public spaces in Zagreb. Very well maintained and photogenic."
       }
     ]
   },
   "mapSection": {
     "title": "Map Location",
-    "subtitle": "MV7Q+P49, Episkopi Lemesou 4620, Cyprus",
+    "subtitle": "RX4H+JF Zagreb, Croatia",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "brandName": "Kourion Ancient Amphitheater",
-    "brandSubtitle": "Historic Landmark · Limassol, Cyprus",
+    "brandName": "Trg Kralja Tomislava",
+    "brandSubtitle": "City Park · Zagreb, Croatia",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -251,8 +243,8 @@
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "officialManagement": {
-    "title": "About Kourion Ancient Amphitheater",
-    "text": "The Kourion Ancient Amphitheater is managed and protected by the Department of Antiquities of Cyprus. The site is protected under the Cultural Heritage Laws of Cyprus."
+    "title": "About Trg Kralja Tomislava",
+    "text": "Trg Kralja Tomislava is managed by the City of Zagreb and is protected as an essential part of Zagreb's cultural and urban heritage."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -278,7 +270,7 @@
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Kourion Ancient Amphitheater. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides travel, transport, and historical information about Trg Kralja Tomislava. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
       },
       {
         "heading": "Intellectual Property",
